@@ -1,1 +1,1 @@
-FROM library/redis:latest
+FROM redis:7.0.0-alpine
